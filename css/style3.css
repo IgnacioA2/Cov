@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: #1B396A;
+}
+
+.nav-link{
+    color: white;
+}
+
+#row1{
+    background-color: rgba(205, 37, 37, 0.822);
+}
+
+.container{
+    background-color: rgba(237, 244, 236, 0.681);
+}
+
+.fa-solid{
+    color: rgb(30, 20, 215);
+    
+}
+
+
+
+body{
+    background-image: url(../media/tec.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+  
+}
+
+.iconos{
+    border-radius: 20px;
+    background-color: white;
+}
+
+.iconos form h2{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    color:  #1B396A;
+}
+
+.iconos form input{
+    background: #F2F2F2;
+    border: none;
+    font-size: 16px;
+    outline: none;
+    padding: 15px;
+}
+
+.iconos form button{
+    padding: 10px 20px;
+    margin-top: 40px;
+    border: none;
+    font-size: 14px;
+    background: #1B396A;
+    font-weight: 600;
+    cursor: pointer;
+    color: white;
+    outline: none;
+}
+
+.encuesta{
+    background-color: rgba(237, 244, 236, 0.681);
+    text-align: justify;
+}
+
+.encuesta h2{
+    color: rgba(205, 37, 37, 0.822);
+}
+
+#row2{
+    border-radius: 20px;
+    background-color: white;
+    text-align: justify;
+}
+
+.social{
+    position: fixed;
+    right: 0;
+    top: 200px;
+    z-index: 1000;
+}
+
+.social ul {
+    list-style: none;
+}
+
+.social ul li a {
+    display: inline-block;
+    color: #fff;
+    background: #000;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+.social ul li .icon-facebook {background: blue;}
+.social ul li .icon-youtube {background: red;}
+.social ul li .icon-twitter {background: hsl(193, 93%, 49%);}
+.social ul li .icon-instagram {background: hwb(36 15% 5% / 0.877);}

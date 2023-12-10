@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&family=Sofia+Sans+Extra+Condensed:wght@900&display=swap');
+.container-fluid{
+    background-color:  #F0FFF0;
+}
+
+#cocovid{
+    font-family: 'Sofia Sans Extra Condensed', sans-serif;
+    font-size: 60px;
+    
+}
+
+#boton1{
+    background-color: #E6E6FA;
+    font-family: 'Lora', serif;
+}
+#boton2{
+    background-color: #E6E6FA;
+    font-family: 'Lora', serif
+}
+#boton3{
+    background-color: #E6E6FA;
+    font-family: 'Lora', serif
+}
+#boton4{
+    background-color: #E6E6FA;
+    font-family: 'Lora', serif
+}
+#user{
+    color: rgb(255, 0, 0);
+    font-size: 30px;
+}
+
+.formulario{
+    font-family: 'Lora', serif;
+
+}
+
+#forget{
+    font-family: 'Lora', serif
+    
+}
+
+.nav{
+    background-color: #1B396A;
+
+}
+
+.nav-ul-li-a{
+    color: rgb(255, 255, 255);
+}
+
+
